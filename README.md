@@ -3,13 +3,13 @@
 Laravelを学習する目的で、SNS風の記事投稿Webサービスを作成。  
 現在作成中。  
 
-# 制作の背景
+## 制作の背景
 PHPのフレームワークを学習することが目的で、こちらを作成しております。  
 
 # 使用技術
 ### フロントエンド
 - HTML
-- MDBootstrap(マテリアルデザイン版Bootstrap4)
+- MDBootstrap
 - Vue.js 2.6.11
 ### バックエンド
 - Laravel 6.8
