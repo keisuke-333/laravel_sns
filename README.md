@@ -1,6 +1,5 @@
 ## 開発環境
 ### フロントエンド
-- HTML
 - MDBootstrap
 - Vue.js 2.6.11
 
