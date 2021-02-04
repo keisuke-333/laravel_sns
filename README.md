@@ -9,6 +9,6 @@
 ### データベース
 - PostgreSQL
 
-### 開発環境
+### 環境
 - Laradock
 - Docker
